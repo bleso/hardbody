@@ -641,7 +641,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .trainer .title {
   width: 100%;
   position: absolute;
-  bottom: 60%;
+  bottom: 45%;
   left: 42%;
   -webkit-transform: rotate(270deg);
   -moz-transform: rotate(270deg);
